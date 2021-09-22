@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section__main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1{
+    margin: 0px 12px;
+
+}
+
+.cars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.botonA {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.botonA > button{
+    margin: 0px 10px 0px 0px;
+}
